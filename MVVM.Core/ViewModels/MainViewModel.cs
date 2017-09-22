@@ -17,9 +17,14 @@ namespace MVVM.Core.ViewModels
         }
         
         public IMvxCommand ResetTextCommand => new MvxCommand(ResetText);
+        public IMvxCommand ToggleEditClickedCommand => new MvxCommand(ToggleEditClicked);
         private void ResetText()
         {
             Text = "Hello MvvmCross";
+        }
+        private void ToggleEditClicked()
+        {
+            Text = "Edit button has been pressed!";
         }
 
         private string _text = "Hello MvvmCross";

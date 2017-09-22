@@ -4,7 +4,7 @@
        android:id="@+id/menu_edit"
        android:icon="@drawable/ic_action_content_create"
        android:showAsAction="ifRoom"
-       android:title="Edit" />
+       android:title="Edit"/>
   <item
        android:id="@+id/menu_preferences"
        android:showAsAction="never"

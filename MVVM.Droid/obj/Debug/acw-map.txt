@@ -1,3 +1,7 @@
+MVVM.Droid.TempFragment, MVVM.Droid;md586b94398b04b213319a92480e01917df.TempFragment
+MVVM.Droid.TempFragment, MVVM.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md586b94398b04b213319a92480e01917df.TempFragment
+MVVM.Droid.TempFragment;md586b94398b04b213319a92480e01917df.TempFragment
+mvvm.droid.TempFragment;md586b94398b04b213319a92480e01917df.TempFragment
 MVVM.Droid.MainFragment, MVVM.Droid;md586b94398b04b213319a92480e01917df.MainFragment
 MVVM.Droid.MainFragment, MVVM.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md586b94398b04b213319a92480e01917df.MainFragment
 MVVM.Droid.MainFragment;md586b94398b04b213319a92480e01917df.MainFragment

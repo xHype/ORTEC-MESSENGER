@@ -26,6 +26,7 @@ C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Fragment.dll
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Media.Compat.dll
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
