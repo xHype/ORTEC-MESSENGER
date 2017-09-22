@@ -4329,11 +4329,8 @@ namespace MVVM.Droid
 			// aapt resource value: 0x7f09009e
 			public const int menu_edit = 2131296414;
 			
-			// aapt resource value: 0x7f0900a0
-			public const int menu_preferences = 2131296416;
-			
 			// aapt resource value: 0x7f09009f
-			public const int menu_save = 2131296415;
+			public const int menu_preferences = 2131296415;
 			
 			// aapt resource value: 0x7f090024
 			public const int middle = 2131296292;

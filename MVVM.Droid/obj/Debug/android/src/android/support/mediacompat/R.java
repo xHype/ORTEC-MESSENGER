@@ -2834,8 +2834,7 @@ containing a value of this type.
         public static final int masked=0x7f09009d;
         public static final int media_actions=0x7f09008b;
         public static final int menu_edit=0x7f09009e;
-        public static final int menu_preferences=0x7f0900a0;
-        public static final int menu_save=0x7f09009f;
+        public static final int menu_preferences=0x7f09009f;
         public static final int middle=0x7f090024;
         public static final int mini=0x7f090040;
         public static final int multiply=0x7f09001b;

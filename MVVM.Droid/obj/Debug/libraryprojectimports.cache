@@ -2,16 +2,16 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.Core.UI\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.Fragment\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.Design\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.Core.UI\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.Fragment\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.Design\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
@@ -23,15 +23,15 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.Core.UI.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.Fragment.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.Core.UI.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.Fragment.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
