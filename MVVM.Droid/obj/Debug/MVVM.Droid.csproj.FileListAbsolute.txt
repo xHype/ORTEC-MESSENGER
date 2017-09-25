@@ -107,8 +107,6 @@ C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\res\mipmap-xxhdpi\ic_menu_
 C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
 C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
 C:\Users\RaduM\source\repos\Mvvm\MVVM.Droid\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
-C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\MVVM.Droid.csprojResolveAssemblyReference.cache
-C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\MVVM.Droid.csproj.CoreCompileInputs.cache
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\bin\Debug\MVVM.Droid.dll
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\bin\Debug\MVVM.Droid.pdb
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\bin\Debug\MVVM.Droid.MVVM.Droid.apk
@@ -159,6 +157,8 @@ C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\bin\Debug\MvvmCross.Platf
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\bin\Debug\MvvmCross.Platform.dll.mdb
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\bin\Debug\MvvmCross.Platform.Droid.pdb
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\bin\Debug\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\MVVM.Droid.csprojResolveAssemblyReference.cache
+C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\MVVM.Droid.csproj.CoreCompileInputs.cache
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\MVVM.Droid.dll
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\MVVM.Droid.pdb
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\bin\MVVM.Droid.MVVM.Droid.apk
@@ -166,6 +166,7 @@ C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\res\layout\spla
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\res\layout\mainview.xml
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\res\layout\mainfragment.xml
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\res\layout\tempfragment.xml
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\res\values\strings.xml
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\res\values\splashstyle.xml
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\res\drawable\splash.png
@@ -217,4 +218,3 @@ C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\MvvmCross.Localization.dll.mdb
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\MvvmCross.Platform.dll.mdb
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\android\assets\MvvmCross.Platform.Droid.dll.mdb
-C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Droid\obj\Debug\res\layout\tempfragment.xml

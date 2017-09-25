@@ -4329,8 +4329,8 @@ namespace MVVM.Droid
 			// aapt resource value: 0x7f09004a
 			public const int list_item = 2131296330;
 			
-			// aapt resource value: 0x7f090087
-			public const int main_fragment = 2131296391;
+			// aapt resource value: 0x7f090086
+			public const int main_fragment = 2131296390;
 			
 			// aapt resource value: 0x7f0900a1
 			public const int masked = 2131296417;
@@ -4539,8 +4539,8 @@ namespace MVVM.Droid
 			// aapt resource value: 0x7f090059
 			public const int title_template = 2131296345;
 			
-			// aapt resource value: 0x7f090086
-			public const int toolbar = 2131296390;
+			// aapt resource value: 0x7f090087
+			public const int toolbar = 2131296391;
 			
 			// aapt resource value: 0x7f09002b
 			public const int top = 2131296299;

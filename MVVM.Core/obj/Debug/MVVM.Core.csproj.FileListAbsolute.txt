@@ -22,6 +22,7 @@ C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Core\bin\Debug\MvvmCross.Bindin
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Core\bin\Debug\MvvmCross.Core.pdb
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Core\bin\Debug\MvvmCross.Localization.pdb
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Core\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Core\obj\Debug\MVVM.Core.csprojResolveAssemblyReference.cache
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Core\obj\Debug\MVVM.Core.csproj.CoreCompileInputs.cache
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Core\obj\Debug\MVVM.Core.dll
 C:\Users\RaduM\source\repos\ORTEC-MESSENGER\MVVM.Core\obj\Debug\MVVM.Core.pdb

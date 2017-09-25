@@ -2834,7 +2834,7 @@ containing a value of this type.
         public static final int line3=0x7f09009c;
         public static final int listMode=0x7f090011;
         public static final int list_item=0x7f09004a;
-        public static final int main_fragment=0x7f090087;
+        public static final int main_fragment=0x7f090086;
         public static final int masked=0x7f0900a1;
         public static final int media_actions=0x7f09008e;
         public static final int menu_edit=0x7f0900a2;
@@ -2904,7 +2904,7 @@ containing a value of this type.
         public static final int title=0x7f09004c;
         public static final int titleDividerNoCustom=0x7f09005b;
         public static final int title_template=0x7f090059;
-        public static final int toolbar=0x7f090086;
+        public static final int toolbar=0x7f090087;
         public static final int top=0x7f09002b;
         public static final int topPanel=0x7f090058;
         public static final int touch_outside=0x7f090079;
